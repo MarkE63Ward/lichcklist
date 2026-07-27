@@ -1,0 +1,166 @@
+{
+  "meta": {
+    "licenseTypes":[
+      {
+        "licenseTypeId": "BL",
+        "name": "Business License"
+      },
+      {
+        "licenseTypeId": "TL",
+        "name": "Trade License"
+      }
+    ]
+  },
+  "categories": [
+    {
+      "catId": "TL-CONT",
+      "licenseTypeId": "TL",
+      "name": "Contractor"
+    },
+    {
+      "catId": "TL-ELEC",
+      "licenseTypeId": "TL",
+      "name": "Electrical"
+    },
+    {
+      "catId": "TL-DEMO",
+      "licenseTypeId": "TL",
+      "name": "Demolition"
+    },
+    {
+      "catId": "TL-INPS",
+      "licenseTypeId": "TL",
+      "name": "Inspection"
+    },
+    {
+      "catId": "BL-VEND",
+      "licenseTypeId": "BL",
+      "name": "Vending"
+    },
+    {
+      "catId": "BL-FOOD",
+      "licenseTypeId": "BL",
+      "name": "Vending & Street Sales"
+    },
+    {
+      "catId": "BL-ENTE",
+      "licenseTypeId": "BL",
+      "name": "Entertainment"
+    },
+    {
+      "catId": "BL-GMOC",
+      "licenseTypeId": "BL",
+      "name": "Games Of Chance"
+    }
+  ],
+  "licenses": [
+    {
+      "licenseTypeId": "TL",
+      "catId": "TL-CONT",
+      "licenseId": "TL-CONT-CONT",
+      "name": "Contractor",
+      "isRenewable": true,
+      "term": "1 Year",
+      "requiresInsurance": true
+    },
+    {
+      "licenseTypeId": "TL",
+      "catId": "TL-CONT",
+      "licenseId": "TL-CONT-PAHO",
+      "name": "PA Home Improvement Contractor",
+      "isRenewable": true,
+      "term": "1 Year",
+      "requiresInsurance": true
+    },
+    {
+      "licenseTypeId": "TL",
+      "catId": "TL-CONT",
+      "licenseId": "TL-CONT-CURB",
+      "name": "Curb Setter",
+      "isRenewable": true,
+      "term": "1 Year",
+      "requiresInsurance": true
+    },
+    {
+      "licenseTypeId": "TL",
+      "catId": "TL-ELEC",
+      "licenseId": "TL-ELEC-ELEC",
+      "name": "Electrical Contractor",
+      "isRenewable": true,
+      "term": "1 Year",
+      "requiresInsurance": true
+    },
+    {
+      "licenseTypeId": "TL",
+      "catId": "TL-INPS",
+      "licenseId": "TL-INPS-SPIN",
+      "name": "Special Inspector",
+      "isRenewable": true,
+      "term": "1 Year",
+      "requiresInsurance": true
+    },
+    {
+      "licenseTypeId": "BL",
+      "catId": "BL-ENTE",
+      "licenseId": "BL-ENTE-PROM",
+      "name": "Promoter",
+      "isRenewable": true,
+      "term": "1 Year",
+      "requiresInsurance": true
+    },
+    {
+      "licenseTypeId": "BL",
+      "catId": "BL-ENTE",
+      "licenseId": "BL-ENTE-CARN",
+      "name": "Carnival",
+      "isRenewable": true,
+      "term": "1 Year",
+      "requiresInsurance": true
+    },
+    {
+      "licenseTypeId": "BL",
+      "catId": "BL-GMOC",
+      "licenseId": "BL-GMOC-SGCM",
+      "name": "Small Games Of Chance (Monthly)",
+      "isRenewable": true,
+      "term": "1 Year",
+      "requiresInsurance": true
+    },
+    {
+      "licenseTypeId": "BL",
+      "catId": "BL-GMOC",
+      "licenseId": "BL-GMOC-SGCA",
+      "name": "Small Games Of Chance (Annual)",
+      "isRenewable": true,
+      "term": "1 Year",
+      "requiresInsurance": true
+    },
+    {
+      "licenseTypeId": "BL",
+      "catId": "BL-VEND",
+      "licenseId": "BL-VEND-NEWS",
+      "name": "Newsstand",
+      "isRenewable": true,
+      "term": "1 Year",
+      "requiresInsurance": true
+    },
+    {
+      "licenseTypeId": "BL",
+      "catId": "BL-FOOD",
+      "licenseId": "BL-FOOD-FPSL",
+      "name": "Food Prep & Serve 50+",
+      "isRenewable": true,
+      "term": "1 Year",
+      "requiresInsurance": true
+    },
+    {
+      "licenseTypeId": "BL",
+      "catId": "BL-FOOD",
+      "licenseId": "BL-FOOD-FPSS",
+      "name": "Food Prep & Serve",
+      "isRenewable": true,
+      "term": "1 Year",
+      "requiresInsurance": true
+    }
+  ]
+}
